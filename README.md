@@ -1,3 +1,2 @@
 # CAC-JAVASCRIPT-LOGIN
-Javascript Login Validation
-Url: https://checklogin.netlify.app/
+Link: https://checklogin.netlify.app/
